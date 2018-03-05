@@ -1,7 +1,7 @@
 ---
 title: 位移枚举
 date: 2017-03-21 16:23:00
-tags:
+tags: iOS Enum
 ---
 
 {% blockquote %}
